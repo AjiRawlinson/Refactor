@@ -36,6 +36,5 @@ public class ATMCard {
 	public String toString()
 	{
 		return "Pin = " + this.pin;
-			
 	}
 }

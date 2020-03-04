@@ -28,10 +28,7 @@ public class CustomerAccount  {
 	{
 		return this.number;
 	}
-	
-	
 
-	
 	public double getBalance()
 	{
 		return this.balance;
@@ -57,7 +54,4 @@ public class CustomerAccount  {
 	{
 		this.transactionList = transactionList;
 	}
-	
-	
-	
 }

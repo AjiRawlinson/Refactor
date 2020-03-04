@@ -26,6 +26,4 @@ public void setInterestRate(double interestRate)
 	this.interestRate = interestRate;
 }
 
-
-
 }
